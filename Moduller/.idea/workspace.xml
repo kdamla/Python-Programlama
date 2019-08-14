@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ca35f8e-b19f-4792-8997-62b56b0854aa" name="Default Changelist" comment="" />
+    <list default="true" id="f5d9d78a-bab8-44a0-a478-44281d7d792b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +18,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1PJsEIeN9C8Od9Hg7YAYNDaGgZX" />
+  <component name="ProjectId" id="1PNRIHbG0AACj9BJdM6VAA9OylO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,9 +36,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem4">
-    <configuration name="Problem1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="KosulluDurumlar" />
+  <component name="RunManager" selected="Python.OOP">
+    <configuration name="Modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Moduller" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -50,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,8 +58,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="KosulluDurumlar" />
+    <configuration name="OOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Moduller" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -71,28 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="KosulluDurumlar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,9 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Problem4" />
-        <item itemvalue="Python.Problem2" />
-        <item itemvalue="Python.Problem1" />
+        <item itemvalue="Python.OOP" />
+        <item itemvalue="Python.Modules" />
       </list>
     </recent_temporary>
   </component>
@@ -114,11 +91,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ca35f8e-b19f-4792-8997-62b56b0854aa" name="Default Changelist" comment="" />
-      <created>1565603420552</created>
+      <changelist id="f5d9d78a-bab8-44a0-a478-44281d7d792b" name="Default Changelist" comment="" />
+      <created>1565712485594</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565603420552</updated>
+      <updated>1565712485594</updated>
     </task>
     <servers />
   </component>
@@ -127,12 +104,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="len(self.kanalListesi-1)" />
+        <watch expression="len(self.kanalListesi)" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
